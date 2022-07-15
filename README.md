@@ -2,7 +2,7 @@
 
 I'm Ailton Cordeiro, 
 
-I have a degree in Systems Development, in addition to a specialization in cybersecurity, and I currently work as DevOps at Instituto Senai de Inovação - ISI-TICS, I also work as a fullstack developer.
+I have a degree in Systems Development, in addition to a specialization in cybersecurity. I also work as a fullstack developer.
 
 <br/>
 <br/>
